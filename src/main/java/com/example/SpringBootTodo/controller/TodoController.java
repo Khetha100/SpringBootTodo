@@ -1,7 +1,6 @@
 package com.example.SpringBootTodo.controller;
 
 import com.example.SpringBootTodo.model.Todo;
-import com.example.SpringBootTodo.service.TodoService;
 import com.example.SpringBootTodo.service.impl.TodoServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
